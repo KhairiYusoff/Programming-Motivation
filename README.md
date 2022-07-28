@@ -1,4 +1,3 @@
-# Programming-Motivation
 
 ## How do you become an amazing software developer/engineer?
 
