@@ -36,4 +36,8 @@ Contributing back to the community that provides you with incredible tools and f
 
 You can learn a lot from seeing other people's code (on GitHub), fixing bugs, writing documentation, and so on. Sometimes finding issues or making pull requests can lead to opportunities for mentorship or employment if others see your contributions.
 
+#### 6. Learn how to ask for help
 
+If there's one skill that will take you far as a programmer, it's learning how to ask questions. Don't ever be embarrassed or ashamed if you don't know something. Instead, use those moments as opportunities for growth and improvement.
+
+Asking someone else for help shows them that you value their opinion and expertise. Most people will be flattered by such an offer, which makes them more willing to help out when they can.
