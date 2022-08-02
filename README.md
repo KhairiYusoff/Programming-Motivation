@@ -1,13 +1,39 @@
 
-## How do you become an amazing software developer/engineer?
+## How to Become a Great Software Developer
 
-### 1. Programming Language
-Fundamentally, the actual language doesn’t really matter. It’s simply a bunch of reserved keywords and structured syntax. 
-Some language are better and some are bad. Learn as many as you can and be open minded. Learn the strengths of each language and understand their weaknesses. 
-Don’t fall in love with a specific language and then refuse to look at other technologies because you’re sold on one. Learn to change and adapt. 
+#### 1. Find a great mentor
 
-### 2. Frameworks
-Frameworks is a ton more than an actual language. Being able to debug it, being able to instrument it. Being able to mutate it at run-time. 
-The tools and libraries that come with it. Community support for it. Tutorials and training. Platforms that support it. Being able to do static and dynamic analysis.
-All of these “things” around the language is MUCH more important than the language itself. For me, when choosing the next technology for that 5 year project … it
-always comes down to this.
+One of the best things you can do to become a great developer is to find an excellent mentor. A good mentor will provide sound advice on everything from architecture to design, and even how to improve your career path.
+
+A person who is not in the same company or location may be the best mentor for you. You can talk to them and get their advice on the phone, via email, or online. A mentor doesn't have to work at your company nor be an expert developer.
+
+Find someone who understands software development and has had success in their career that you respect.
+
+#### 2. Learn to communicate well
+
+Being a great developer means that you can communicate effectively with users and other developers. In fact, a large part of being an excellent programmer is sharing your ideas effectively and efficiently.
+
+If you can present your ideas clearly and concisely, others will want to listen to what you have to say.
+
+#### 3. Learn how to use Google effectively
+
+It turns out that knowing how to use Google effectively doesn't make you any less of a programmer – it makes you more effective at what you are doing.
+
+Take the time to learn about all different kinds of tools so that if an issue comes up that requires something outside your realm of experience, you can quickly determine whether it is worth spending time learning about or not.
+
+
+#### 4. Start writing code every day
+
+As soon as you finish reading this article, write some code! It may sound obvious, but you've got to start writing code every day!
+
+I know you're busy, and everyone else is too. Trust me – there's a reason we all keep telling you to write code every day. It's because it works.  
+
+Writing code every day keeps your skills sharp, helps you learn new languages and technologies, and allows you to work on stuff that interests you.
+
+#### 5. Get involved in open source projects  
+
+Contributing back to the community that provides you with incredible tools and frameworks makes you appreciate them even more!
+
+You can learn a lot from seeing other people's code (on GitHub), fixing bugs, writing documentation, and so on. Sometimes finding issues or making pull requests can lead to opportunities for mentorship or employment if others see your contributions.
+
+
